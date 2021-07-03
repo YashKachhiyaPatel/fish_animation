@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "YashKachhiyapatel_ COMP304_002_Midterm"

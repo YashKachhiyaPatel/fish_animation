@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">yashkachhiyapatel_Lab3</string>
+    <string name="activity_exercise01">Draw Line</string>
+    <string name="activity_exercise02">Fish Animation</string>
+    <string name="activity_exercise03">Earth Animation</string>
+
+    <string-array name="thickness">
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+</resources>

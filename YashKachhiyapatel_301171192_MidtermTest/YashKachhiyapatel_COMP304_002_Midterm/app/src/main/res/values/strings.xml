@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Yash_COMP304_MidtermTest</string>
+    <string name="JumpingRope">Jumping Rope</string>
+    <string name="Swimming">Swimming</string>
+    <string name="BikeRiding">Bike Riding</string>
+    <string name="Walking">Walking</string>
+    <string name="Running">Running</string>
+    <string name="info">Choose an exercise to see Kcal Burned Per Hour</string>
+
+    <string-array name="exercisesList">
+        <item>Choose Exercise</item>
+        <item>Jumping Rope</item>
+        <item>Swimming </item>
+        <item>Bike Riding</item>
+        <item>Walking</item>
+        <item>Running</item>
+    </string-array>
+</resources>
